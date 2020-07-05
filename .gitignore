@@ -147,7 +147,10 @@ dmypy.json
 .pytype/
 
 #backups
+<<<<<<< HEAD
 *~
+=======
+*.*~
+>>>>>>> 119c1f9b738f1ea2e1d5bdf4af0d32358b7ea60a
 # Cython debug symbols
 cython_debug/
-
